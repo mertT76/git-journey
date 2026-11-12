@@ -1,3 +1,5 @@
 one
 pizza
 hamburger
+salam
+sosis
